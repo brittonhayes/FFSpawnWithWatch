@@ -1,0 +1,22 @@
+GameProject {
+ ID "FFSpawnWithWatch"
+ GUID "685767F866F5A6F8"
+ TITLE "FF - Spawn with a watch"
+ Dependencies {
+  "58D0FB3206B6F859" "CAFEBEEFF0CACC1A"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

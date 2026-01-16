@@ -1,0 +1,27 @@
+# Arma Reforger generated files
+*.rdb
+resourceDatabase.rdb
+
+# Auto-generated/cache files
+UserMaps.desc
+
+# Build artifacts
+/ignore
+changelog.txt
+ud
+lst
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# SVN
+/.svn
