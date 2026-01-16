@@ -1,6 +1,10 @@
 # FF - Spawn with a Watch
 
-Automatically equips players with a watch when they spawn in Arma Reforger.
+Are you afraid of night time in general? Same.
+
+Ever found yourself stranded deep in the forest as night falls, no watch in sight, unable to rest until dawn? Also same.
+
+This mod automatically equips players with a watch upon spawning, so you're never stranded in darkness without the ability to rest. No more scavenging for watches before you can find shelter. Just spawn, find a bed, and rest easy.
 
 ## How-to
 
