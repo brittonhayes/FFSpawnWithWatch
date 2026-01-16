@@ -5,7 +5,7 @@ Automatically equips players with a watch when they spawn in Arma Reforger.
 ## How-to
 
 ### Install
-Subscribe on Workshop (link TBD) or place in your `addons` folder and enable in Workbench.
+[Subscribe on Workshop](https://reforger.armaplatform.com/workshop/685767F866F5A6F8-FF-Spawnwithawatch) or place in your `addons` folder and enable in Workbench.
 
 ### Change watch model
 Edit `m_WatchPrefab` in `Scripts/Game/GameMode/FFSW_GiveWatchOnSpawn.c`:
